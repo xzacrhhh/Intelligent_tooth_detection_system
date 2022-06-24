@@ -1,0 +1,3 @@
+dental_caries
+Dental_fluorosis
+Supernumerary_tooth
